@@ -18,7 +18,7 @@ public class ApiDivisas {
 
 	private static final String MONEDAS_PUNTOFINAL="https://openexchangerates.org/api/currencies.json";
 	private static final String PUNTOFINAL_TASASDECAMBIOUSD = "https://openexchangerates.org/api/latest.json";
-	private static final String APP_ID= "?app_id=c9ea60784fbf46f29798643c82851c9d";
+	private static final String APP_ID= "?app_id=c9ea60784fbf46f29798643c82sadfvaxa";
 	private static final String SOLICITUD_TASASDECAMBIOUSD = PUNTOFINAL_TASASDECAMBIOUSD + APP_ID;
 	
 	private static final Map<String, String> MONEDAS;
